@@ -78,7 +78,7 @@
     "path-is-inside": "~1.0.0",
     "read": "~1.0.6",
     "read-installed": "~4.0.2",
-    "read-package-json": "~2.0.0",
+    "read-package-json": "https://github.com/wzrdtales/read-package-json/tarball/perPlatformBins",
     "readable-stream": "~1.1.13",
     "realize-package-specifier": "~3.0.1",
     "request": "~2.60.0",
